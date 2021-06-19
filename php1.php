@@ -1,3 +1,0 @@
-222
-phpinfo();
-pph
